@@ -29,5 +29,5 @@ O sistema é estruturado em 7 entidades principais
 * [x] Modelagem de Casos de Uso e Diagramas
 * [x] Projeto do Banco de Dados
 * [ ] Desenvolvimento do Código Fonte
-* [ ] Testes e Homologação[cite: 14]
-* [ ] Lançamento Oficial[cite: 14]
+* [ ] Testes e Homologação.
+* [ ] Lançamento Oficial
